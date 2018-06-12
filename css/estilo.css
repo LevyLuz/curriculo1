@@ -1,0 +1,82 @@
+body{
+    font-family: Geneva, Verdana, sans-serif;
+    margin: 0 auto;
+    width: 75%;
+}
+
+header{
+    background:CornflowerBlue;
+    height: 60px;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+.direita{
+    float: left;
+}
+
+.esquerda{
+      float: right;
+}
+
+main{
+    float: right;
+    background:orangered;
+    width: 75%;
+    min-height: 550px;
+    margin-top: 20px;
+    padding: 7px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+
+    
+
+}
+
+div{
+    background: CornflowerBlue;
+    padding: 10px;
+    margin-top: 20px;
+    width: 21%;
+    min-height:550px;
+    float: left;
+    border-radius: 5px;
+    margin-bottom: 8px;
+    font-size: 15px;
+    
+}
+
+footer{
+    clear: both;
+    background:CornflowerBlue ;
+    margin-top: 20px;s
+    border-radius: 5px;
+    text-align: center;
+    height: 35px;
+
+}
+
+
+section{
+    border: 2px solid black;
+    padding: 8px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 4px;
+    border-radius: 4px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.recuo { text-indent:3em }
+
+.posi{
+    vertical-align: middle;
+
+}
